@@ -33,14 +33,7 @@ I'm a marketing and business development professional with **6+ years of experie
 
 **Marketing & Growth**
 
-![KOL Management]
-![Community Building](https://img.shields.io/badge/Community_Building-0055ff?style=flat-square)
-![Growth Marketing](https://img.shields.io/badge/Growth_Marketing-0055ff?style=flat-square)
-![Business Development](https://img.shields.io/badge/Business_Development-0055ff?style=flat-square)
-![Content Strategy](https://img.shields.io/badge/Content_Strategy-0055ff?style=flat-square)
-![SEO](https://img.shields.io/badge/SEO-0055ff?style=flat-square)
-![Social Media](https://img.shields.io/badge/Social_Media-0055ff?style=flat-square)
-![Ecosystem Partnerships](https://img.shields.io/badge/Ecosystem_Partnerships-0055ff?style=flat-square)
+`KOL Management` `Community Building` `Growth Marketing` `Business Development` `Content Strategy` `SEO` `Social Media` `Ecosystem Partnerships`
 
 **AI Tools**
 
