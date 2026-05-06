@@ -37,9 +37,7 @@ I'm a marketing and business development professional with **6+ years of experie
 
 **AI Tools**
 
-![Claude](https://img.shields.io/badge/Claude-FF6B35?style=flat-square&logo=anthropic)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=flat-square&logo=openai)
-![Apollo.io](https://img.shields.io/badge/Apollo.io-FF6B6B?style=flat-square)
+`Claude` `Chat GPT' 'Apolllo.io'
 
 **Web3 Ecosystems**
 
