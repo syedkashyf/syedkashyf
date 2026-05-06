@@ -74,7 +74,7 @@ Worked with and within:
 [![Email](https://img.shields.io/badge/Email-syedkashyf@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syedkashyf@gmail.com)
 [![X / Twitter](https://img.shields.io/badge/X-@kashyfsyed-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/kashyfsyed)
 [![Telegram](https://img.shields.io/badge/Telegram-@kashyfsyed-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kashyfsyed)
-[![Portfolio]([https://img.shields.io/badge/Portfolio-View_My_Work-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://syedkashyf.netlify.app](https://sydp.netlify.app/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_My_Work-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sydp.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Khader_Syed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kashyfsyed)
 
 ---
