@@ -33,7 +33,7 @@ I'm a marketing and business development professional with **6+ years of experie
 
 **Marketing & Growth**
 
-![KOL Management](https://img.shields.io/badge/KOL_Management-0055ff?style=flat-square)
+![KOL Management]
 ![Community Building](https://img.shields.io/badge/Community_Building-0055ff?style=flat-square)
 ![Growth Marketing](https://img.shields.io/badge/Growth_Marketing-0055ff?style=flat-square)
 ![Business Development](https://img.shields.io/badge/Business_Development-0055ff?style=flat-square)
