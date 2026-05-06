@@ -37,7 +37,7 @@ I'm a marketing and business development professional with **6+ years of experie
 
 **AI Tools**
 
-`Claude` `Chat GPT' 'Apolllo.io'
+`Claude` `ChatGPT``Apollo`
 
 **Web3 Ecosystems**
 
