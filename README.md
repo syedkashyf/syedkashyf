@@ -71,11 +71,11 @@ Worked with and within:
 
 ## 📬 Connect With Me
 
-[![Email](https://img.shields.io/badge/Email-syedkashyf@gmail.com-0055ff?style=flat-square&logo=gmail)](mailto:syedkashyf@gmail.com)
-[![X / Twitter](https://img.shields.io/badge/X-@kashyfsyed-000000?style=flat-square&logo=x)](https://x.com/kashyfsyed)
-[![Telegram](https://img.shields.io/badge/Telegram-@kashyfsyed-26A5E4?style=flat-square&logo=telegram)](https://t.me/kashyfsyed)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View_My_Work-0055ff?style=flat-square)](https://syedkashyf.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Khader_Syed-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/kashyfsyed)
+[![Email](https://img.shields.io/badge/Email-syedkashyf@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syedkashyf@gmail.com)
+[![X / Twitter](https://img.shields.io/badge/X-@kashyfsyed-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/kashyfsyed)
+[![Telegram](https://img.shields.io/badge/Telegram-@kashyfsyed-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kashyfsyed)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_My_Work-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://syedkashyf.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Khader_Syed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kashyfsyed)
 
 ---
 
