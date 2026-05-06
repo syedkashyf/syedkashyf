@@ -37,7 +37,7 @@ I'm a marketing and business development professional with **6+ years of experie
 
 **AI Tools**
 
-`Claude` `ChatGPT``Apollo`
+`Claude` `ChatGPT` `Apollo`
 
 **Web3 Ecosystems**
 
@@ -47,6 +47,7 @@ I'm a marketing and business development professional with **6+ years of experie
 ![DePIN](https://img.shields.io/badge/DePIN-00C4FF?style=flat-square)
 ![DeFi](https://img.shields.io/badge/DeFi-00D4AA?style=flat-square)
 
+`SOLANA`
 ---
 
 ## 🏆 Key Achievements
